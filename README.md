@@ -37,7 +37,7 @@ GPT Image 2.6 is known for OpenAI next-gen image model with Flare and Sunburst v
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-11-07
+- Last updated: 2026-11-08
 - apimart.ai/model/gpt-image-2-6
 
 ## Browse by Category
